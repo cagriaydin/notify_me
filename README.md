@@ -1,6 +1,8 @@
-# notify_me
+# Notify Me
 
-A new Flutter project.
+Solving notification chaos between notifier(sender) and notifiee (receiver).
+
+<img src="https://github.com/cagriaydin/notify_me/raw/master/screenshot.png" width="750">
 
 ## Getting Started
 
